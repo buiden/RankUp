@@ -1,0 +1,11 @@
+## Interface: 16001
+## Title: RankUp
+## Notes: Pick which class abilities auto-upgrade to their highest rank on your action bars after training.
+## Author: Abdullah
+## Version: 1.0.0
+## SavedVariablesPerCharacter: RankUpDB
+## IconTexture: Interface\Icons\Spell_Holy_SealOfMight
+## AddonCompartmentFunc: RankUp_OnCompartmentClick
+
+Core.lua
+UI.lua
