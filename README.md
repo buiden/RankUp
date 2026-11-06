@@ -4,6 +4,8 @@ A World of Warcraft: Forever addon that keeps your action bars on the highest ra
 
 In Forever, training a new rank of a mana ability doesn't update the copies already on your bars. RankUp lists your class abilities: tick the ones you want, and every time you train a new rank, the old rank is swapped out on every bar.
 
+![RankUp window](media/screenshot.png)
+
 ## Features
 
 - A checklist of your class's active abilities (passives are left out), showing each spell's icon and current rank
